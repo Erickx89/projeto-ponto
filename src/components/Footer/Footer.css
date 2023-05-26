@@ -1,0 +1,27 @@
+
+.footer-container{
+    text-align:center;
+    margin-top: 450px;
+    padding-right: 0px;
+    padding-left: 0px;
+    max-width: 100vw;
+    text-decoration: none;
+}
+
+.nav-link1{
+    font-size: 15px;
+    font-weight: 600;
+    color: #010408;
+    
+}
+
+.nav-item{
+    list-style-type:none;
+}
+.nav-link1:hover{
+    background-color: #0d6efd;
+    color: #FFF;
+
+    transition: all 700ms;
+
+}

@@ -1,0 +1,27 @@
+
+.sobre-us{
+    height: calc(100vh - 52px);
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.description{
+    color: #CCC;
+    font-size: 25px;
+    padding: 0 100px 0 150px;
+}
+
+.sobre-titulo
+{
+   
+   
+    font-size: 40px;
+    
+    color: #000000;
+}
+
+.div{
+    text-align: right;
+}

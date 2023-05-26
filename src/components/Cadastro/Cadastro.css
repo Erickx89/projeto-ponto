@@ -1,0 +1,39 @@
+.cadastro-dados-pessoais
+{
+    display: flex;
+    flex-direction: column;
+    column-gap: 50px;
+}
+
+
+.dados-pessoais-titulo
+{
+    text-align: center;
+   
+    font-size: 30px;
+    
+    color: #000000;
+}
+
+.dados-input{
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    width: 400px;
+    margin: 4px auto;
+    border-radius: 30px;
+    border: none;
+    padding: 10px;
+}
+.button-container{
+    
+    text-align: center;
+    font-size: 30px;
+   
+
+}
+
+
+
+
+

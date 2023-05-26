@@ -1,0 +1,30 @@
+.header-container{
+    
+    padding-right: 0px;
+    padding-left: 0px;
+    max-width: 100vw;
+}
+
+.nav{
+    background-color: #fff8f8;
+    align-items: center;
+   
+   
+}
+
+.nav-link3{
+    font-size: 18px;
+    font-weight: 600;
+    color: #010408;
+    border-radius: 100px;
+    text-decoration: none;
+    
+}
+
+.nav-link3:hover{
+    background-color: #0d6efd;
+    color: #FFF;
+    transition: all 700ms;
+}
+
+
